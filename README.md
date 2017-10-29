@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 update first repo on hub
 
 Hi *,
